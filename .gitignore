@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+translation_work/
+coverage_audit.md
+translation_units.json
+structure_map.md
