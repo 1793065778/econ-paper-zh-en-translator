@@ -1,0 +1,7 @@
+interface:
+  display_name: "Econ Paper ZH-EN Translator"
+  short_description: "Translate Chinese econ papers into English."
+  default_prompt: "Use $econ-paper-zh-en-translator to translate this Chinese economics or management manuscript into an English academic paper draft."
+
+policy:
+  allow_implicit_invocation: true
